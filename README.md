@@ -6,4 +6,6 @@
 
 Designing and simulating neuron and networks model for a Spiking Neural Network (SNN).
 
+### Code and Docs
+
 *Note:* Please check *SNN_from_scratch.ipynb*
